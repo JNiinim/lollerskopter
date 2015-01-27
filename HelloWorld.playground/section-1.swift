@@ -2,7 +2,7 @@
 
 import UIKit
 
-
+//LOLOL
 //TUPLES
 func tuples(pisteet: [Int]) -> (max: Int, min: Int){
     
